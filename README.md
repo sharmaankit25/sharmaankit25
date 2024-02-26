@@ -7,6 +7,7 @@
 ## MY WORK : 
 - [Demos and Projects](https://sharmaankit25.github.io/)
 - [Web Audio](https://sharmaankit25.github.io/web-audio-lab/)
+- [Trek In Himalayas](https://sharmaankit25.github.io/trek-in-himalayas/) 
 
 <!---
 sharmaankit25/sharmaankit25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
